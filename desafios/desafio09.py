@@ -9,7 +9,7 @@ r7 = n1 * 7
 r8 = n1 * 8
 r9 = n1 * 9
 r10 = n1 * 10
-
+print('-'*25)
 print('Tabuada do {} a seguir:'.format(n1))
 print('{} * 1 = {}'.format(n1, r1))
 print('{} * 2 = {}'.format(n1, r2))
@@ -21,6 +21,6 @@ print('{} * 7 = {}'.format(n1, r7))
 print('{} * 8 = {}'.format(n1, r8))
 print('{} * 9 = {}'.format(n1, r9))
 print('{} * 10 = {}'.format(n1, r10))
-
+print('-'*25)
 
 
