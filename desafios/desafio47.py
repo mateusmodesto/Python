@@ -1,4 +1,2 @@
-from time import sleep
-for par in range(0, 51, 2):
+for par in range(2, 51, 2):
     print(par)
-    sleep(1)
