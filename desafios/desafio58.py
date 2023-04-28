@@ -4,7 +4,6 @@ numero = randint(0, 10)
 tentativas = 0
 acertou = False
 while not acertou:
-
     resp = int(input('Digite o número que foi sorteado: '))
     if resp < numero:
         print('Você errou!')
