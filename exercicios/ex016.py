@@ -26,10 +26,9 @@ d = a + b
 #b+a != a+b
 print(c)
 print(d)
-print(c.count(5)) #quantas vezes está aparacendo o número 5
-print(c.index(8)) #em que posição está o 8
+print(c.count(5))  #quantas vezes está aparacendo o número 5
+print(c.index(8))  #em que posição está o 8
 print('--'*20)
 pessoa = ('Mateus', 14, 'M', 53)
 print(pessoa)
-del(pessoa) #não pode deletar apenas os itens da tupla, APENAS A TUPLA INTEIRA!
-print(pessoa)
+del(pessoa)  #não pode deletar apenas os itens da tupla, APENAS A TUPLA INTEIRA!

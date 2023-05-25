@@ -1,11 +1,7 @@
-import random
-n1 = random.randint(0, 10)
-n2 = random.randint(0, 10)
-n3 = random.randint(0, 10)
-n4 = random.randint(0, 10)
-n5 = random.randint(0, 10)
-lista = (n1, n2, n3, n4, n5)
+from random import randint
+lista = (randint(0, 10), randint(0, 10), randint(0, 10), randint(0, 10), randint(0, 10))
 m_m = sorted(lista)
 print(f'Os números sorteados foram: {lista}')
-print(f'O maior número sorteado foi {m_m[0]}')
-print(f'O menor número sorteado foi {m_m[4]}')
+#print(f'O maior número sorteado foi {m_m[0]}')
+print(f'O maior número sorteado foi {max(lista)}')
+print(f'O menor número sorteado foi {min(lista)}')
