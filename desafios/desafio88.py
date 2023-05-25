@@ -5,7 +5,7 @@ print(f'--'*20)
 print(f'{"MEGA SENA":^40}')
 print(f'--'*20)
 quanti = int(input('Quantos jogos você quer que sorteie? '))
-for i in range(0, quanti):
+while j < quanti:
     j += 1
     while a < 6:
         num = randint(0, 60)
