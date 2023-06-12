@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a6e3e03-eb34-487f-a239-025eab9fc94b" name="Changes" comment="Treinando">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio90.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio91.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio92.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio93.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio94.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio95.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio96.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio97.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio98.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio99.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex019b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
