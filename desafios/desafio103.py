@@ -6,4 +6,4 @@ def ficha(nome, gols):
     print(f'O jogador {nome} fez {gols} gol(s)')
 
 
-ficha(str(input('Digite o nome: ')), str(input('Gols marcados: ')))
+ficha(str(input('Digite o nome: ')).strip(), str(input('Gols marcados: ')).strip())

@@ -5,11 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a6e3e03-eb34-487f-a239-025eab9fc94b" name="Changes" comment="Treinando">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio107/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio108/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio109/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio110/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/utilidadeCeV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/utilidadeCeV/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/utilidadeCeV/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio112/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio112/utilidadeCeV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio112/utilidadeCeV/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio112/utilidadeCeV/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio115/arquivo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio115/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio115/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex022/ex022a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex022/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex022/uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex022/uteis/strings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio101.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio101.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desafios/desafio102.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio102.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio103.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio104.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio105.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio28.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio32.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio32.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +82,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\engjh\Documents\Geral\MATEUS\Progra\Python\desafios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\engjh\Documents\Geral\MATEUS\Progra\Python\desafios\desafio115" />
     </key>
   </component>
   <component name="RunManager">

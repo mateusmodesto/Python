@@ -1,0 +1,6 @@
+José;35
+Mateus;15
+Fabiana;41
+João;43
+Thales;11
+Neusa;73

@@ -1,4 +1,11 @@
 def notas(*num, sit=False):
+    """
+    -> Função para analisar as notas e situação de uma classe.
+    :param num: aceitar a digitação das notas dos alunos (mais de um valor aceito)
+    :param sit: valor opcional para mostrar o valor da situção da média dos alunos.
+    :return: mostra um dicionário com a quantidade, maior, menor, media (notas) e situação da media.
+    """
+    sala = dict()
     quantidade = soma = 0
     maior = menor = num[1]
     for i in num:
@@ -9,17 +16,19 @@ def notas(*num, sit=False):
         quantidade += 1
         soma += i
     media = soma / quantidade
+    sala['quantidade'] = quantidade
+    sala['maior'] = maior
+    sala['menor'] = menor
+    sala['media'] = media
     if sit:
         if media >= 7:
-            print('BOA')
+            sala['situação'] = 'BOA'
         elif media >= 5:
-            print('RAZOÁVEL')
+            sala['situação'] = 'RAZOÁVEL'
         else:
-            print('RUIM')
-    print(menor)
-    print(maior)
-    print(quantidade)
-    print(media)
+            sala['situação'] = 'RUIM'
+    return sala
 
 
-notas(5.5, 6.4, 7.8, 5.6, 9, 8, sit=True)
+print(notas(5.5, 2.5, 1.5, sit=True))
+help(notas)

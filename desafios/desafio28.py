@@ -1,6 +1,6 @@
 import random
 from time import sleep
-num1 = random.randint(0,5)
+num1 = random.randint(0, 5)
 print('-=-' * 20)
 resp = int(input('Tente acertar qual foi o número inteiro escolhido entre 0 e 5: '))
 print('-=-' * 20)
